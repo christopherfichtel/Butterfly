@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.butterflynetinc.helios.seriesdetail.StillImageView android:id="@id/stillImageView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ProgressBar android:theme="@style/CircularProgress" android:id="@id/progressBar" android:layout_width="@dimen/grid24" android:layout_height="@dimen/grid24" android:indeterminate="true" android:layout_centerInParent="true" style="@style/Widget.AppCompat.ProgressBar" />
+</RelativeLayout>

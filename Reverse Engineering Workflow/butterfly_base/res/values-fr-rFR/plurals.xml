@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Abandonner %1$d images</item>
+        <item quantity="one">Abandonner %1$d image</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Nous pouvons vous envoyer %1$d rappels supplémentaires.
+"</item>
+        <item quantity="one">"
+ Nous pouvons vous envoyer %1$d rappel supplémentaire.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Dans %1$d jours, vous ne pourrez plus enregistrer de nouveaux examens dans le stockage sécurisé de Butterfly. Veuillez mettre à jour vos informations de facturation.
+"</item>
+        <item quantity="one">"
+ Dans %1$d jour, vous ne pourrez plus enregistrer de nouveaux examens dans le stockage sécurisé de Butterfly. Veuillez mettre à jour vos informations de facturation.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Vous avez %1$d captures dans la galerie de votre examen. Si vous vous déconnectez, les données seront supprimées.</item>
+        <item quantity="one">Vous avez %1$d capture dans la galerie de votre examen. Si vous vous déconnectez, les données seront supprimées.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Vous avez %1$d téléchargements en attente. Si vous vous déconnectez, les données seront supprimées.</item>
+        <item quantity="one">Vous avez %1$d téléchargement en attente. Si vous vous déconnectez, les données seront supprimées.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Activer lorsque vous êtes hors ligne pendant plus de %1$d jours</item>
+        <item quantity="one">Activer lorsque vous êtes hors ligne pendant plus de %1$d jour</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Vous avez %1$d captures dans la galerie de votre examen. Si vous changez d’organisation, ces données seront supprimées.</item>
+        <item quantity="one">Vous avez %1$d capture dans la galerie de votre examen. Si vous changez d’organisation, ces données seront supprimées.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Vous avez %1$d téléchargements en attente. Si vous changez d’organisation, ces données seront supprimées.</item>
+        <item quantity="one">Vous avez %1$d téléchargement en attente. Si vous changez d’organisation, ces données seront supprimées.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Dans %1$d jours, vous ne pourrez plus enregistrer de nouveaux examens dans le stockage sécurisé de Butterfly. Veuillez contacter votre administrateur pour réactiver votre abonnement.
+"</item>
+        <item quantity="one">"
+ Dans %1$d jour, vous ne pourrez plus enregistrer de nouveaux examens dans le stockage sécurisé de Butterfly. Veuillez contacter votre administrateur pour réactiver votre abonnement.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Télécharger %1$d images</item>
+        <item quantity="one">Télécharger %1$d image</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Téléchargements terminés</item>
+        <item quantity="one">Téléchargement terminé</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d commentaires</item>
+        <item quantity="one">%1$d commentaire</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d secondes restantes</item>
+        <item quantity="one">%1$d seconde restante</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">"%1$d examens dans la boîte d'envoi"</item>
+        <item quantity="one">"%1$d examen dans la boîte d'envoi"</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d licences utilisateur</item>
+        <item quantity="one">%1$d licence utilisateur</item>
+    </plurals>
+</resources>

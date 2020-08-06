@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/avatar" android:layout_width="@dimen/grid32" android:layout_height="@dimen/grid32" />
+    <TextView android:textColor="@color/bni_grey25" android:ellipsize="end" android:id="@id/body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/grid16" style="@style/BniText.Body" />
+</merge>

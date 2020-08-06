@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.exam.views.toolsoverlay.TextToolEditorView android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:background="#ff111111" android:layout_width="fill_parent" android:layout_height="@dimen/grid48" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid4">
+        <EditText android:textColor="@color/bni_white" android:textColorHint="@color/bni_grey25" android:gravity="start|center" android:id="@id/editText" android:layout_width="0.0dip" android:layout_height="fill_parent" android:hint="@string/annotation_text_tool_hint" android:maxLines="1" android:maxLength="25" android:layout_weight="1.0" android:inputType="textCapCharacters|textNoSuggestions" android:imeOptions="actionDone" style="@style/BniText.Body" />
+        <TextView android:textColor="@color/bni_white" android:gravity="center" android:id="@id/cancelButton" android:layout_width="wrap_content" android:layout_height="fill_parent" android:foreground="?selectableItemBackground" android:text="@string/cancel" android:textAllCaps="true" android:paddingHorizontal="@dimen/grid4" style="@style/BniText.Body.Bold" />
+    </LinearLayout>
+    <FrameLayout android:background="@color/bni_black" android:layout_width="fill_parent" android:layout_height="60.0dip" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid4">
+        <TextView android:textStyle="italic" android:textColor="@color/bni_grey50" android:gravity="start|center" android:layout_gravity="start|center" android:id="@id/bottomHintMessage" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/annotation_text_tool_no_suggestions" android:layout_marginHorizontal="@dimen/grid2" style="@style/BniText.Body" />
+        <com.airbnb.epoxy.EpoxyRecyclerView android:layout_gravity="center_vertical" android:id="@id/suggestionRecycler" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</com.butterflynetinc.helios.exam.views.toolsoverlay.TextToolEditorView>

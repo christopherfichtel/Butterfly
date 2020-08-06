@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.subscription.expiredbanner.SubscriptionExpiredBannerView android:gravity="center" android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@color/bni_purple" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/subscriptionIcon" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_profile_card" android:tint="@color/colorOnPrimary" />
+    <TextView android:textColor="@color/colorOnPrimary" android:ellipsize="end" android:id="@id/subscriptionExpiredBannerText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:layout_marginHorizontal="@dimen/grid8" style="@style/BniText.ExtraSmall" />
+    <TextView android:textColor="@color/colorOnPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/details" style="@style/BniText.ExtraSmall.Bold" />
+</com.butterflynetinc.helios.subscription.expiredbanner.SubscriptionExpiredBannerView>

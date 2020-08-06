@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.exam.views.toolsoverlay.TextToolView android:orientation="horizontal" android:padding="@dimen/grid4" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.butterflynetinc.helios.exam.views.toolsoverlay.TextToolCloseButton android:layout_gravity="center_vertical" android:id="@id/closeButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_delete_white_20dp" android:layout_marginEnd="@dimen/grid4" />
+    <TextView android:textColor="@color/bni_limeGreen" android:layout_gravity="center_vertical" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/BniText.Body" />
+</com.butterflynetinc.helios.exam.views.toolsoverlay.TextToolView>

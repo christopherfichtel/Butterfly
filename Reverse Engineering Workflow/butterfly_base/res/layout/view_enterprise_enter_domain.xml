@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.textfield.TextInputEditText android:id="@id/subdomainEditText" android:layout_marginTop="@dimen/grid24" android:hint="@string/your_enterprise_url" android:layout_marginStart="@dimen/horizontal_gutter" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/EnterpriseDomainText" />
+    <TextView android:textColor="@color/bni_white" android:id="@id/domainText" app:layout_constraintBottom_toBottomOf="@id/subdomainEditText" app:layout_constraintStart_toEndOf="@id/subdomainEditText" style="@style/EnterpriseDomainText" />
+    <TextView android:textColor="@color/bni_white" android:id="@id/nonEnterpriseLoginText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/grid8" android:text="@string/non_enterprise_user_login_with_butterfly" android:paddingVertical="@dimen/grid16" app:layout_constraintBottom_toTopOf="@id/continueButton" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" style="@style/BniText.Small" />
+    <com.google.android.material.button.MaterialButton android:enabled="false" android:id="@id/continueButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/grid16" android:text="@string/continue_" android:layout_marginHorizontal="@dimen/horizontal_gutter" app:layout_constraintBottom_toBottomOf="parent" style="@style/BniHeroTextButton" />
+</merge>

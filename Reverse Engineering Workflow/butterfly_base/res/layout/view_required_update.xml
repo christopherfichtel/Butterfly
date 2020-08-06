@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.requiredupdate.RequiredUpdateView android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <ImageView android:id="@id/logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/bni_logo" />
+    <TextView android:textColor="@color/colorOnPrimary" android:gravity="center" android:id="@id/titleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid24" android:layout_marginHorizontal="@dimen/grid48" style="@style/BniText.ExtraLarge.Bold" />
+    <TextView android:textColor="@color/bni_grey25" android:gravity="center" android:id="@id/blurbText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid16" android:lineSpacingExtra="@dimen/grid12" android:layout_marginHorizontal="@dimen/horizontal_gutter" android:paddingHorizontal="@dimen/grid32" style="@style/BniText.Body" />
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <com.google.android.material.button.MaterialButton android:id="@id/primaryButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/grid32" android:layout_marginHorizontal="@dimen/horizontal_gutter" style="@style/BniPrimaryTextButton" />
+    <TextView android:textColor="@color/colorOnPrimary" android:textColorHighlight="#00ffffff" android:textColorLink="@color/colorOnPrimary" android:gravity="center" android:id="@id/footerText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/grid24" android:layout_marginHorizontal="@dimen/horizontal_gutter" android:paddingHorizontal="@dimen/grid32" style="@style/BniText.ExtraSmall" />
+</com.butterflynetinc.helios.requiredupdate.RequiredUpdateView>

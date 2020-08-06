@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:id="@id/appBarLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.butterflynetinc.helios.design.view.TitleBar android:id="@id/titleBar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:upIcon="close" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/recycler" android:background="@color/bni_black" android:paddingTop="@dimen/grid32" android:paddingBottom="@dimen/grid8" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingHorizontal="@dimen/horizontal_gutter_list" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+</merge>

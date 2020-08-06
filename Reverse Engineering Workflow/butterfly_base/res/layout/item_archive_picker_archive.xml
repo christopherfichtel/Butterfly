@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.studylist.view.ArchivePickerArchiveView android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/ripple_light" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid12"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/folderIcon" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/folder_icon_public_24" android:tint="@color/colorOnPrimary" android:layout_marginEnd="@dimen/grid32" />
+    <TextView android:textColor="@color/colorOnPrimary" android:id="@id/labelText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" style="@style/BniText.Body" />
+    <TextView android:textColor="@color/bni_grey50" android:id="@id/dicomText" android:background="@drawable/bg_grey_pill_border" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dicom" android:layout_marginStart="@dimen/grid4" android:paddingHorizontal="@dimen/grid8" android:paddingVertical="@dimen/grid4" style="@style/BniText.ExtraSmall.Bold" />
+    <ImageView android:id="@id/checkIcon" android:visibility="invisible" android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/ic_check_black_24dp" android:tint="@color/colorOnPrimary" android:layout_marginStart="@dimen/grid8" />
+</com.butterflynetinc.helios.studylist.view.ArchivePickerArchiveView>

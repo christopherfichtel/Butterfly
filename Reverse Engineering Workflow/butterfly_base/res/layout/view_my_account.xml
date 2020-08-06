@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.settings.myaccount.MyAccountView android:background="@color/bni_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.butterflynetinc.helios.design.view.TitleBar android:id="@id/titleBar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:layout_constraintTop_toTopOf="parent" app:title="@string/your_account" app:upIcon="back" />
+    <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/recycler" android:layout_width="fill_parent" android:layout_height="0.0dip" android:paddingHorizontal="@dimen/horizontal_large_gutter_list" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/titleBar" />
+</com.butterflynetinc.helios.settings.myaccount.MyAccountView>

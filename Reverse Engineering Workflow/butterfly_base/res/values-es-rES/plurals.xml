@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Descartar %1$d imágenes</item>
+        <item quantity="one">Descartar %1$d imagen</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Podrá recibir %1$d avisos más.
+"</item>
+        <item quantity="one">"
+ Podrá recibir %1$d aviso más.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Faltan %1$d días para que deje de poder guardar estudios nuevos en el sistema de almacenamiento seguro de Butterfly. Actualice su información de pago.
+"</item>
+        <item quantity="one">"
+ Falta %1$d día para que deje de poder guardar estudios nuevos en el sistema de almacenamiento seguro de Butterfly. Actualice su información de pago.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Tiene %1$d capturas en su carrete de estudio. Cerrar la sesión eliminará estos datos.</item>
+        <item quantity="one">Tiene %1$d captura en su carrete de estudio. Cerrar la sesión eliminará estos datos.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Tiene %1$d cargas en cola. Cerrar la sesión eliminará estos datos.</item>
+        <item quantity="one">Tiene %1$d carga en cola. Cerrar la sesión eliminará estos datos.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Activar cuando vaya a pasar más de %1$d días sin conectarse</item>
+        <item quantity="one">Activar cuando vaya a pasar más de %1$d día sin conectarse</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Tiene %1$d capturas en su carrete de estudio. Cambiar de organización eliminará estos datos.</item>
+        <item quantity="one">Tiene %1$d captura en su carrete de estudio. Cambiar de organización eliminará estos datos.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Tiene %1$d cargas en cola. Cambiar de organización eliminará estos datos.</item>
+        <item quantity="one">Tiene %1$d carga en cola. Cambiar de organización eliminará estos datos.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Faltan %1$d días para que deje de poder guardar estudios nuevos en el sistema de almacenamiento seguro de Butterfly. Póngase en contacto con su administrador para volver a activar su suscripción.
+"</item>
+        <item quantity="one">"
+ Falta %1$d día para que deje de poder guardar estudios nuevos en el sistema de almacenamiento seguro de Butterfly. Póngase en contacto con su administrador para volver a activar su suscripción.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Subir %1$d imágenes</item>
+        <item quantity="one">Subir %1$d imagen</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Cargas finalizadas</item>
+        <item quantity="one">Carga finalizada</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d comentarios</item>
+        <item quantity="one">%1$d comentario</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">Faltan %1$d segundos…</item>
+        <item quantity="one">Falta %1$d segundo…</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d estudios en la bandeja de salida</item>
+        <item quantity="one">%1$d estudio en la bandeja de salida</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d licencias de usuario</item>
+        <item quantity="one">%1$d licencia de usuario</item>
+    </plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.exam.views.autofreeze.AutoFreezeOverlayView android:background="@color/dialogScrim" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.butterflynetinc.helios.exam.views.autofreeze.AutoFreezeHudView android:layout_gravity="center" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</com.butterflynetinc.helios.exam.views.autofreeze.AutoFreezeOverlayView>

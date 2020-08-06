@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.study.StudyCreatorView android:gravity="center_vertical" android:background="@drawable/bg_item_top_bottom_border_dark_no_ripple" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid12"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/creatorImage" android:layout_width="24.0dip" android:layout_height="24.0dip" android:scaleType="centerCrop" android:layout_marginEnd="@dimen/grid8" />
+    <TextView android:textColor="@color/bni_grey50" android:ellipsize="end" android:id="@id/creatorText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" style="@style/BniText.Body" />
+</com.butterflynetinc.helios.study.StudyCreatorView>

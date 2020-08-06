@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.study.StudyIsDraftView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid16" android:layout_marginStart="@dimen/grid16" android:layout_marginEnd="@dimen/grid16" app:cardBackgroundColor="@color/bni_grey90" app:cardCornerRadius="@dimen/grid4"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/colorOnPrimary" android:padding="@dimen/grid16" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/study_draft_notice" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/BniText.Small" />
+        <View android:background="@color/bni_orange" android:layout_width="2.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.butterflynetinc.helios.study.StudyIsDraftView>

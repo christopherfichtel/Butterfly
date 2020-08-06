@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Elimina %1$d immagini</item>
+        <item quantity="one">Elimina %1$d immagine</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Ti invieremo altri %1$d promemoria
+"</item>
+        <item quantity="one">"
+ Ti invieremo %1$d altro promemoria.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Hai ancora %1$d giorni a disposizione per salvare nuovi studi nello spazio di archiviazione sicuro di Butterfly. Aggiorna i dati di fatturazione.
+"</item>
+        <item quantity="one">"
+ Hai ancora %1$d giorno a disposizione per salvare nuovi studi nello spazio di archiviazione sicuro di Butterfly. Aggiorna i dati di fatturazione.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Hai %1$d acquisizioni nella galleria del tuo studio. Uscendo, i dati in questione andranno persi.</item>
+        <item quantity="one">Hai %1$d acquisizione nella galleria del tuo studio. Uscendo, i dati in questione andranno persi.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Hai %1$d caricamenti in coda. Uscendo, i dati in questione andranno persi.</item>
+        <item quantity="one">Hai %1$d caricamento in coda. Uscendo, i dati in questione andranno persi.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Da attivare se si è offline per più di %1$d giorni</item>
+        <item quantity="one">Da attivare se si è offline per più di %1$d giorno</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Hai %1$d acquisizioni nella galleria del tuo studio. Cambiare organizzazione causerà la perdita dei relativi dati.</item>
+        <item quantity="one">Hai %1$d acquisizione nella galleria del tuo studio. Cambiare organizzazione causerà la perdita dei relativi dati.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Hai %1$d caricamenti in coda. Cambiare organizzazione causerà la perdita dei relativi dati.</item>
+        <item quantity="one">Hai %1$d caricamento in coda. Cambiare organizzazione causerà la perdita dei relativi dati.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Hai ancora %1$d giorni a disposizione per salvare nuovi studi nello spazio di archiviazione sicuro di Butterfly. Contatta l'amministratore per riattivare l'iscrizione.
+"</item>
+        <item quantity="one">"
+ Hai ancora %1$d giorno a disposizione per salvare nuovi studi nello spazio di archiviazione sicuro di Butterfly. Contatta l'amministratore per riattivare l'iscrizione.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Carica %1$d immagini</item>
+        <item quantity="one">Carica %1$d immagine</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Caricamenti completati</item>
+        <item quantity="one">Caricamento completato</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d commenti</item>
+        <item quantity="one">%1$d commento</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d secondi rimanenti...</item>
+        <item quantity="one">%1$d secondo rimanente...</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d studi nella posta in uscita</item>
+        <item quantity="one">%1$d studio nella posta in uscita</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d licenze utente</item>
+        <item quantity="one">%1$d licenza utente</item>
+    </plurals>
+</resources>

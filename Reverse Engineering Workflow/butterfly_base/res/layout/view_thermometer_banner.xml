@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.butterflynetinc.helios.exam.views.ThermometerProgressBar android:id="@id/progressBar" android:layout_width="fill_parent" android:layout_height="5.0dip" android:layout_marginTop="@dimen/grid12" android:layout_marginHorizontal="@dimen/grid12" />
+    <TextView android:textColor="@color/colorOnPrimary" android:gravity="center" android:id="@id/messageText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid4" android:layout_marginBottom="@dimen/grid8" android:layout_marginHorizontal="@dimen/grid12" style="@style/BniText.Small.Bold" />
+</merge>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.tgcpanel.TgcPanelView android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="2" app:layout_constraintBottom_toBottomOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TableRow android:gravity="center" android:paddingBottom="@dimen/grid16" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_column="1">
+            <Button android:layout_gravity="center" android:id="@id/doneButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/done" style="@style/BniSmallTextButton" />
+        </FrameLayout>
+    </TableRow>
+    <include android:id="@id/nearRow" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/view_tgc_row" />
+    <include android:id="@id/midRow" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/view_tgc_row" />
+    <include android:id="@id/farRow" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/view_tgc_row" />
+</com.butterflynetinc.helios.tgcpanel.TgcPanelView>

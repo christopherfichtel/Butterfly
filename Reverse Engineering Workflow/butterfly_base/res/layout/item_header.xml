@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.base.epoxy.view.HeaderView android:textColor="@color/bni_grey50" android:ellipsize="end" android:id="@id/headerText" android:background="@color/bni_black" android:paddingTop="@dimen/grid16" android:paddingBottom="@dimen/grid8" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textAllCaps="true" android:paddingStart="@dimen/grid16" android:paddingEnd="@dimen/grid16" style="@style/BniText.Small"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.ftux.FtuxView android:background="@color/bni_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ProgressBar android:id="@id/progressBar" android:layout_width="fill_parent" android:layout_height="@dimen/grid8" android:indeterminate="false" android:progressTint="@color/bni_blue" android:progressBackgroundTint="@color/bni_blue" app:layout_constraintTop_toTopOf="parent" style="?android:progressBarStyleHorizontal" />
+    <FrameLayout android:id="@id/container" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/progressBar" />
+    <com.butterflynetinc.helios.design.view.SpinnerHudView android:id="@id/loadingView" android:visibility="gone" android:layout_width="@dimen/spinner_hud_view_size" android:layout_height="@dimen/spinner_hud_view_size" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+</com.butterflynetinc.helios.ftux.FtuxView>

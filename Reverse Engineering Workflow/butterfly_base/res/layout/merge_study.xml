@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.butterflynetinc.helios.design.view.TitleBar android:id="@id/titleBar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:layout_constraintTop_toTopOf="parent" app:title="@string/study" />
+    <FrameLayout android:id="@id/subscriptionExpiredBannerContainer" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/titleBar" />
+    <com.butterflynetinc.helios.design.view.BniSwipeRefreshLayout android:enabled="false" android:id="@id/swipeRefresh" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toTopOf="@id/scaryActionButton" app:layout_constraintTop_toBottomOf="@id/subscriptionExpiredBannerContainer">
+        <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/recycler" android:paddingBottom="@dimen/grid32" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingHorizontal="@dimen/horizontal_gutter_list" />
+    </com.butterflynetinc.helios.design.view.BniSwipeRefreshLayout>
+    <com.google.android.material.button.MaterialButton android:textColor="@color/bni_red" android:id="@id/scaryActionButton" android:background="?selectableItemBackground" android:padding="@dimen/grid12" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" app:backgroundTint="@color/colorPrimaryDark" app:cornerRadius="0.0dip" app:layout_constraintBottom_toBottomOf="parent" style="@style/BniBaseTextButton" />
+</merge>

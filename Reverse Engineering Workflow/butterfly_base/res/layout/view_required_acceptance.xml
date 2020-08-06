@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.requiredacceptance.RequiredAcceptanceView android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/simpleWebView" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" layout="@layout/view_simple_web" />
+    <LinearLayout android:orientation="horizontal" android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.material.button.MaterialButton android:textColor="@color/bni_blue" android:gravity="center" android:id="@id/declineButton" android:layout_width="0.0dip" android:layout_height="@dimen/grid48" android:text="@string/decline" android:layout_weight="1.0" style="@style/BniBaseTextButton" />
+        <com.google.android.material.button.MaterialButton android:textColor="@color/bni_blue" android:gravity="center" android:id="@id/acceptButton" android:layout_width="0.0dip" android:layout_height="@dimen/grid48" android:text="@string/accept" android:layout_weight="1.0" style="@style/BniBaseTextButton" />
+    </LinearLayout>
+</com.butterflynetinc.helios.requiredacceptance.RequiredAcceptanceView>

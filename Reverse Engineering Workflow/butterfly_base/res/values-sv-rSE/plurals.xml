@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Kassera %1$d bilder</item>
+        <item quantity="one">Kassera %1$d bild</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Du kan få %1$d påminnelser till.
+"</item>
+        <item quantity="one">"
+ Du kan få %1$d påminnelse till.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Du har %1$d dagar kvar tills du inte längre kan spara nya studier till Butterflys säker lagring. Uppdatera din faktureringsinformation.
+"</item>
+        <item quantity="one">"
+ Du har %1$d dag kvar tills du inte längre kan spara nya studier till Butterflys säker lagring. Uppdatera din faktureringsinformation.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Du har %1$d tagningar i din studierulle. Om du loggar ut kommer denna information att kasseras.</item>
+        <item quantity="one">Du har %1$d tagning i din studierulle. Om du loggar ut kommer denna information att kasseras.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Du har %1$d uppladdningar köade. Om du loggar ut kommer denna information att kasseras.</item>
+        <item quantity="one">Du har %1$d uppladdning köad. Om du loggar ut kommer denna information att kasseras.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Aktivera när du kommer vara offline i mer än %1$d dagar</item>
+        <item quantity="one">Aktivera när du kommer vara offline i mer än %1$d dag</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Du har %1$d tagningar i din studierulle. Byte av organisation kommer att kassera denna information.</item>
+        <item quantity="one">Du har %1$d tagning i din studierulle. Byte av organisation kommer att kassera denna information.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Du har %1$d uppladdningar köade. Byte av organisation kommer att kassera denna information.</item>
+        <item quantity="one">Du har %1$d uppladdning köad. Byte av organisation kommer att kassera denna information.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Du har %1$d dagar kvar tills du inte längre kan spara nya studier till Butterflys säker lagring. Kontakta din administratör om du vill återaktivera din prenumeration.
+"</item>
+        <item quantity="one">"
+ Du har %1$d dag kvar tills du inte längre kan spara nya studier till Butterflys säker lagring. Kontakta din administratör om du vill återaktivera din prenumeration.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Ladda upp %1$d bilder</item>
+        <item quantity="one">Ladda upp %1$d bild</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Uppladdningar slutförda</item>
+        <item quantity="one">Uppladdning slutförd</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d kommentarer</item>
+        <item quantity="one">%1$d kommentar</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d sekunder kvar...</item>
+        <item quantity="one">%1$d sekund kvar...</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d studier i utkorgen</item>
+        <item quantity="one">%1$d studie i utkorgen</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d användarlicenser</item>
+        <item quantity="one">%1$d användarlicens</item>
+    </plurals>
+</resources>

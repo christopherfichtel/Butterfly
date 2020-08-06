@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.outbox.OutboxInfoRowView android:orientation="vertical" android:background="@drawable/bg_rounded_grey_border" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/grid16" android:paddingVertical="@dimen/grid12"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/bni_grey25" android:gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/BniText.Large.Bold" />
+    <TextView android:textColor="@color/bni_grey50" android:gravity="center" android:id="@id/subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/BniText.Body.Bold" />
+</com.butterflynetinc.helios.outbox.OutboxInfoRowView>

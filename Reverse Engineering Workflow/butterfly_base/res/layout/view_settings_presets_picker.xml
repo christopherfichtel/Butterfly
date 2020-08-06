@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.settings.presets.PresetsPickerView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.butterflynetinc.helios.design.view.TitleBar android:id="@id/titleBar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:layout_constraintTop_toTopOf="parent" app:title="@string/presets" app:upIcon="back" />
+    <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/recycler" android:paddingBottom="@dimen/grid4" android:layout_width="fill_parent" android:layout_height="0.0dip" android:paddingHorizontal="@dimen/horizontal_large_gutter_list" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/titleBar" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/probeDisconnectedContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:paddingHorizontal="@dimen/grid32" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintTop_toBottomOf="@id/titleBar">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/probe_disconnected" />
+        <TextView android:textColor="@color/colorOnPrimary" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid16" android:text="@string/probe_status_prompt_connect" style="@style/BniText.Body" />
+        <TextView android:textColor="@color/bni_grey50" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid8" android:text="@string/presets_picker_connect_iq" style="@style/BniText.ExtraSmall" />
+    </LinearLayout>
+</com.butterflynetinc.helios.settings.presets.PresetsPickerView>

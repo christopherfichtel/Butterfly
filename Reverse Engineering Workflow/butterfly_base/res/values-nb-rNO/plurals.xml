@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Forkast %1$d bilder</item>
+        <item quantity="one">Forkast %1$d bilde</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Du kan bli påminnet %1$d ganger til.
+"</item>
+        <item quantity="one">"
+ Du kan bli påminnet %1$d gang til.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Det gjenstår %1$d dager til du ikke lenger kan lagre nye studier i sikker lagring i Butterfly. Oppdater faktureringsinformasjonen din.
+"</item>
+        <item quantity="one">"
+ Det gjenstår %1$d dager til du ikke lenger kan lagre nye studier i sikker lagring i Butterfly. Oppdater faktureringsinformasjonen.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Du har %1$d bilder i studierullen. Utlogging vil forkaste disse dataene.</item>
+        <item quantity="one">Du har %1$d bilde i studierullen. Utlogging vil forkaste disse dataene.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Du har %1$d opplastinger i kø. Utlogging vil forkaste disse dataene.</item>
+        <item quantity="one">Du har %1$d opplasting i kø. Utlogging vil forkaste disse dataene.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Aktiver når du vil være frakoblet i mer enn %1$d dager</item>
+        <item quantity="one">Aktiver når du vil være frakoblet i mer enn %1$d dag</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Du har %1$d bilder i studierullen. Hvis du bytter organisasjon, vil disse dataene bli forkastet.</item>
+        <item quantity="one">Du har %1$d bilde i studierullen. Hvis du bytter organisasjon, vil disse dataene bli forkastet.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Du har %1$d opplastinger i kø. Hvis du bytter organisasjon, vil disse dataene bli forkastet.</item>
+        <item quantity="one">Du har %1$d opplasting i kø. Hvis du bytter organisasjon, vil disse dataene bli forkastet.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Det gjenstår %1$d dager til du ikke lenger kan lagre nye studier i sikker lagring i Butterfly. Kontakt administratoren din for å aktivere abonnementet ditt på nytt.
+"</item>
+        <item quantity="one">"
+ Det gjenstår %1$d dag til du ikke lenger kan lagre nye studier på sikker lagring i Butterfly. Kontakt administratoren din for å aktivere abonnementet ditt på nytt.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Last opp %1$d bilder</item>
+        <item quantity="one">Last opp %1$d bilde</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Opplasting fullført</item>
+        <item quantity="one">Opplasting fullført</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d kommentarer</item>
+        <item quantity="one">%1$d kommentar</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d sekunder igjen ...</item>
+        <item quantity="one">%1$d sekunder igjen ...</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d studier i utboksen</item>
+        <item quantity="one">%1$d studie i utboksen</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d brukerlisenser</item>
+        <item quantity="one">%1$d brukerlisens</item>
+    </plurals>
+</resources>

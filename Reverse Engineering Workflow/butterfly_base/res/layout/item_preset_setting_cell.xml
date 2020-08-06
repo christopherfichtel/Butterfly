@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.settings.presets.presetsettings.view.PresetSettingCell android:paddingTop="@dimen/grid32" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textColor="@color/bni_grey50" android:id="@id/titleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAllCaps="true" app:layout_constraintTop_toTopOf="parent" style="@style/BniText.ExtraSmall" />
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/rounded_white_background_6dp" android:padding="@dimen/grid8" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid8" android:backgroundTint="@color/bni_grey80" app:layout_constraintTop_toBottomOf="@id/titleText">
+        <TextView android:id="@id/firstOption" style="@style/PresetSettingCellTextStyle" />
+        <TextView android:id="@id/secondOption" style="@style/PresetSettingCellTextStyle" />
+    </LinearLayout>
+</com.butterflynetinc.helios.settings.presets.presetsettings.view.PresetSettingCell>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Kasser %1$d billeder</item>
+        <item quantity="one">Kasser %1$d billede</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Du kan blive påmindet %1$d gange mere.
+"</item>
+        <item quantity="one">"
+ Du kan blive påmindet %1$d gange mere.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Du har %1$d dage tilbage, indtil du ikke længere kan gemme nye undersøgelser til Butterflys sikrede opbevaring. Opdater dine faktureringsoplysninger.
+"</item>
+        <item quantity="one">"
+ Du har %1$d dag tilbage, indtil du ikke længere kan gemme nye undersøgelser til Butterflys sikrede opbevaring. Opdater dine faktureringsoplysninger.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Du har %1$d optagelser i din undersøgelsesspole. Når du logger ud, kasseres disse data.</item>
+        <item quantity="one">Du har %1$d optagelse i din undersøgelsesspole. Når du logger ud, kasseres disse data.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Du har %1$d uploads i kø. Når du logger ud, kasseres disse data.</item>
+        <item quantity="one">Du har %1$d upload i kø. Når du logger ud, kasseres disse data.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Aktivér, når du er offline mere end %1$d dage</item>
+        <item quantity="one">Aktivér, når du er offline mere end %1$d dag</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Du har %1$d optagelser i din undersøgelsesspole. At skifte organisation vil kasserer disse data.</item>
+        <item quantity="one">Du har %1$d optagelser i din undersøgelsesspole. At skifte organisation vil kasserer disse data.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Du har %1$d upload i kø. At skifte organisation vil kasserer disse data.</item>
+        <item quantity="one">Du har %1$d uploads i kø. At skifte organisation vil kasserer disse data.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Du har %1$d dage tilbage, indtil du ikke længere kan gemme nye undersøgelser til Butterflys sikrede opbevaring. Kontakt din administrator for at genaktivere dit abonnement.
+"</item>
+        <item quantity="one">"
+ Du har %1$d dag tilbage, indtil du ikke længere kan gemme nye undersøgelser til Butterflys sikrede opbevaring. Kontakt din administrator for at genaktivere dit abonnement.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Upload %1$d billeder</item>
+        <item quantity="one">Upload %1$d billede</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Uploads gennemført</item>
+        <item quantity="one">Upload gennemført</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d Kommentarer</item>
+        <item quantity="one">%1$d Kommentar</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d sekunder tilbage...</item>
+        <item quantity="one">%1$d sekund tilbage...</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d undersøgelser i udbakken</item>
+        <item quantity="one">%1$d undersøgelse i udbakken</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d brugerlicenser</item>
+        <item quantity="one">%1$d brugerlicens</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/inputContainer" android:background="@color/bni_grey85" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid12" app:layout_constraintBottom_toBottomOf="parent">
+        <com.linkedin.android.spyglass.ui.MentionsEditText android:textColor="@color/bni_grey5" android:textColorHint="@color/bni_grey50" android:id="@id/textEditor" android:background="@drawable/bg_grey_4dp_rounded" android:scrollbars="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:hint="@string/study_list_type_to_tag" android:layout_weight="1.0" android:inputType="textAutoCorrect|textCapSentences|textMultiLine" android:backgroundTint="@color/bni_black" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid12" />
+        <Button android:textColor="@color/primary_text_button_icon" android:id="@id/postCommentButton" android:padding="@dimen/grid4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/post" android:layout_marginStart="@dimen/grid16" android:backgroundTint="@color/bni_grey85" style="@style/BniBaseTextButton" />
+    </LinearLayout>
+</merge>

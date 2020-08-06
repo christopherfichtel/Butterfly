@@ -1,0 +1,710 @@
+[
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel",
+    "device": "sailfish",
+    "model": "Pixel"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 2",
+    "device": "walleye",
+    "model": "Pixel 2"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 2 XL",
+    "device": "taimen",
+    "model": "Pixel 2 XL"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 3",
+    "device": "blueline",
+    "model": "Pixel 3"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 3 XL",
+    "device": "crosshatch",
+    "model": "Pixel 3 XL"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 3a",
+    "device": "sargo",
+    "model": "Pixel 3a"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 3a XL",
+    "device": "bonito",
+    "model": "Pixel 3a XL"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 4",
+    "device": "flame",
+    "model": "Pixel 4"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel 4 XL",
+    "device": "coral",
+    "model": "Pixel 4 XL"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel C",
+    "device": "dragon",
+    "model": "Pixel C"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel Slate",
+    "device": "nocturne_cheets",
+    "model": "Google Pixel Slate"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel Slate",
+    "device": "nocturne_cheets",
+    "model": "Pixel Slate"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel Slate",
+    "device": "nocturne_cheets",
+    "model": "nocturne"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixel XL",
+    "device": "marlin",
+    "model": "Pixel XL"
+  },
+  {
+    "retailBranding": "Google",
+    "marketingName": "Pixelbook",
+    "device": "eve_cheets",
+    "model": "Google Pixelbook"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10",
+    "device": "d1",
+    "model": "SM-N970F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10",
+    "device": "d1q",
+    "model": "SM-N9700"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10",
+    "device": "d1q",
+    "model": "SM-N970U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10",
+    "device": "d1q",
+    "model": "SM-N970U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10",
+    "device": "d1q",
+    "model": "SM-N970W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10 5G",
+    "device": "d1x",
+    "model": "SM-N971N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "SC-01M",
+    "model": "SC-01M"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "SCV45",
+    "model": "SCV45"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "d2q",
+    "model": "SM-N9750"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "d2q",
+    "model": "SM-N975C"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "d2q",
+    "model": "SM-N975U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "d2q",
+    "model": "SM-N975U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "d2q",
+    "model": "SM-N975W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+",
+    "device": "d2s",
+    "model": "SM-N975F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+ 5G",
+    "device": "d2x",
+    "model": "SM-N976B"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+ 5G",
+    "device": "d2x",
+    "model": "SM-N976N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+ 5G",
+    "device": "d2xq",
+    "model": "SM-N9760"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+ 5G",
+    "device": "d2xq",
+    "model": "SM-N976Q"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+ 5G",
+    "device": "d2xq",
+    "model": "SM-N976V"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note10+ 5G",
+    "device": "d2xq2",
+    "model": "SM-N976U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "SC-01L",
+    "model": "SC-01L"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "SCV40",
+    "model": "SCV40"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "crownlte",
+    "model": "SM-N960F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "crownlteks",
+    "model": "SM-N960N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "crownqltechn",
+    "model": "SM-N9600"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "crownqltecs",
+    "model": "SM-N960W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "crownqltesq",
+    "model": "SM-N960U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Note9",
+    "device": "crownqlteue",
+    "model": "SM-N960U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "SC-03L",
+    "model": "SC-03L"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "SCV41",
+    "model": "SCV41"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1",
+    "model": "SM-G973F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1",
+    "model": "SM-G973N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1q",
+    "model": "SM-G9730"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1q",
+    "model": "SM-G9738"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1q",
+    "model": "SM-G973C"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1q",
+    "model": "SM-G973U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1q",
+    "model": "SM-G973U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10",
+    "device": "beyond1q",
+    "model": "SM-G973W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10 5G",
+    "device": "beyondx",
+    "model": "SM-G977B"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10 5G",
+    "device": "beyondx",
+    "model": "SM-G977N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10 5G",
+    "device": "beyondxq",
+    "model": "SM-G977P"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10 5G",
+    "device": "beyondxq",
+    "model": "SM-G977T"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10 5G",
+    "device": "beyondxq",
+    "model": "SM-G977U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "SC-04L",
+    "model": "SC-04L"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "SCV42",
+    "model": "SCV42"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2",
+    "model": "SM-G975F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2",
+    "model": "SM-G975N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2q",
+    "model": "SM-G9750"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2q",
+    "model": "SM-G9758"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2q",
+    "model": "SM-G975U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2q",
+    "model": "SM-G975U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+",
+    "device": "beyond2q",
+    "model": "SM-G975W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10+ Olympic Games Edition",
+    "device": "SC-05L",
+    "model": "SC-05L"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0",
+    "model": "SM-G970F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0",
+    "model": "SM-G970N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0q",
+    "model": "SM-G9700"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0q",
+    "model": "SM-G9708"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0q",
+    "model": "SM-G970U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0q",
+    "model": "SM-G970U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S10e",
+    "device": "beyond0q",
+    "model": "SM-G970W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "SC-02J",
+    "model": "SC-02J"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "SCV36",
+    "model": "SCV36"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamlte",
+    "model": "SM-G950F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamlteks",
+    "model": "SM-G950N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamqltecan",
+    "model": "SM-G950W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamqltechn",
+    "model": "SM-G9500"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamqltecmcc",
+    "model": "SM-G9508"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamqltesq",
+    "model": "SM-G950U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8",
+    "device": "dreamqlteue",
+    "model": "SM-G950U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8 Active",
+    "device": "cruiserlteatt",
+    "model": "SM-G892A"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8 Active",
+    "device": "cruiserltesq",
+    "model": "SM-G892U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "SC-03J",
+    "model": "SC-03J"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "SCV35",
+    "model": "SCV35"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "dream2lte",
+    "model": "SM-G955F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "dream2lteks",
+    "model": "SM-G955N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "dream2qltecan",
+    "model": "SM-G955W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "dream2qltechn",
+    "model": "SM-G9550"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "dream2qltesq",
+    "model": "SM-G955U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S8+",
+    "device": "dream2qlteue",
+    "model": "SM-G955U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "SC-02K",
+    "model": "SC-02K"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "SCV38",
+    "model": "SCV38"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starlte",
+    "model": "SM-G960F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starlteks",
+    "model": "SM-G960N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starqltechn",
+    "model": "SM-G9600"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starqltecmcc",
+    "model": "SM-G9608"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starqltecs",
+    "model": "SM-G960W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starqltesq",
+    "model": "SM-G960U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9",
+    "device": "starqlteue",
+    "model": "SM-G960U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "SC-03K",
+    "model": "SC-03K"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "SCV39",
+    "model": "SCV39"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "star2lte",
+    "model": "SM-G965F"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "star2lteks",
+    "model": "SM-G965N"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "star2qltechn",
+    "model": "SM-G9650"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "star2qltecs",
+    "model": "SM-G965W"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "star2qltesq",
+    "model": "SM-G965U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy S9+",
+    "device": "star2qlteue",
+    "model": "SM-G965U1"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6",
+    "device": "gts6l",
+    "model": "SM-T865"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6",
+    "device": "gts6l",
+    "model": "SM-T867"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6",
+    "device": "gts6l",
+    "model": "SM-T867R4"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6",
+    "device": "gts6l",
+    "model": "SM-T867U"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6",
+    "device": "gts6l",
+    "model": "SM-T867V"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6",
+    "device": "gts6lwifi",
+    "model": "SM-T860"
+  },
+  {
+    "retailBranding": "Samsung",
+    "marketingName": "Galaxy Tab S6 5G",
+    "device": "gts6x",
+    "model": "SM-T866N"
+  }
+]

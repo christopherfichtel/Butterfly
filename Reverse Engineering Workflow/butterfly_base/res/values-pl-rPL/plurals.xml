@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Odrzuć %1$d obrazu</item>
+        <item quantity="one">Odrzuć %1$d obraz</item>
+        <item quantity="few">Odrzuć %1$d obrazy</item>
+        <item quantity="many">Odrzuć %1$d obrazów</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Możesz otrzymać przypomnienie %1$d raza.
+"</item>
+        <item quantity="one">"
+ Możesz otrzymać przypomnienie %1$d raz.
+"</item>
+        <item quantity="few">"
+ Możesz otrzymać przypomnienie %1$d razy.
+"</item>
+        <item quantity="many">"
+ Możesz otrzymać przypomnienie %1$d razy.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Pozostało Ci %1$d dnia do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Zaktualizuj informacje rozliczeniowe.
+"</item>
+        <item quantity="one">"
+ Pozostał Ci %1$d dzień do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Zaktualizuj informacje rozliczeniowe.
+"</item>
+        <item quantity="few">"
+ Pozostały Ci %1$d dni do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Zaktualizuj informacje rozliczeniowe.
+"</item>
+        <item quantity="many">"
+ Pozostało Ci %1$d dni do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Zaktualizuj informacje rozliczeniowe.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Masz %1$d przechwyconego obrazu na rolce USG. Wylogowanie spowoduje usunięcie tych danych.</item>
+        <item quantity="one">Masz %1$d przechwycony obraz na rolce USG. Wylogowanie spowoduje usunięcie tych danych.</item>
+        <item quantity="few">Masz %1$d przechwycone obrazy na rolce USG. Wylogowanie spowoduje usunięcie tych danych.</item>
+        <item quantity="many">Masz %1$d przechwyconych obrazów na rolce USG. Wylogowanie spowoduje usunięcie tych danych.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Masz %1$d przesłania w kolejce. Wylogowanie spowoduje usunięcie tych danych.</item>
+        <item quantity="one">Masz %1$d przesłanie w kolejce. Wylogowanie spowoduje usunięcie tych danych.</item>
+        <item quantity="few">Masz %1$d przesłania w kolejce. Wylogowanie spowoduje usunięcie tych danych.</item>
+        <item quantity="many">Masz %1$d przesłań w kolejce. Wylogowanie spowoduje usunięcie tych danych.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Włącz, gdy będziesz offline przez więcej niż %1$d dnia</item>
+        <item quantity="one">Włącz, gdy będziesz w trybie offline przez więcej niż %1$d dzień</item>
+        <item quantity="few">Włącz, gdy będziesz w trybie offline przez więcej niż %1$d dni</item>
+        <item quantity="many">Włącz, gdy będziesz w trybie offline przez więcej niż %1$d dni</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Masz %1$d przechwyconego obrazu na rolce USG. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+        <item quantity="one">Masz %1$d przechwycony obraz na rolce USG. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+        <item quantity="few">Masz %1$d przechwycone obrazy na rolce USG. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+        <item quantity="many">Masz %1$d przechwyconych obrazów na rolce USG. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Masz %1$d przesłania w kolejce. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+        <item quantity="one">Masz %1$d przesłanie w kolejce. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+        <item quantity="few">Masz %1$d przesłania w kolejce. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+        <item quantity="many">Masz %1$d przesłań w kolejce. Zmiana organizacji spowoduje odrzucenie tych danych.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ Pozostało Ci %1$d dnia do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Skontaktuj się z administratorem, aby ponownie aktywować subskrypcję.
+"</item>
+        <item quantity="one">"
+ Pozostał Ci %1$d dzień do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Skontaktuj się z administratorem, aby ponownie aktywować subskrypcję.
+"</item>
+        <item quantity="few">"
+ Pozostały Ci %1$d dni do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Skontaktuj się z administratorem, aby ponownie aktywować subskrypcję.
+"</item>
+        <item quantity="many">"
+ Pozostało Ci %1$d dni do momentu, kiedy stracisz możliwość zapisywania nowych badań w bezpiecznej pamięci Butterfly. Skontaktuj się z administratorem, aby ponownie aktywować subskrypcję.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Prześlij %1$d zdjęcia</item>
+        <item quantity="one">Prześlij %1$d zdjęcie</item>
+        <item quantity="few">Prześlij %1$d zdjęcia</item>
+        <item quantity="many">Prześlij %1$d zdjęć</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Przesyłania zakończone</item>
+        <item quantity="one">Przesyłanie zakończone</item>
+        <item quantity="few">Przesyłania zakończone</item>
+        <item quantity="many">Przesyłań zakończonych</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d komentarza</item>
+        <item quantity="one">%1$d komentarz</item>
+        <item quantity="few">%1$d komentarze</item>
+        <item quantity="many">%1$d komentarzy</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">Pozostało %1$d sekundy…</item>
+        <item quantity="one">Pozostała %1$d sekunda…</item>
+        <item quantity="few">Pozostały %1$d sekundy…</item>
+        <item quantity="many">Pozostało %1$d sekund…</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d Badania w skrzynce nadawczej</item>
+        <item quantity="one">%1$d Badanie w skrzynce nadawczej</item>
+        <item quantity="few">%1$d Badania w skrzynce nadawczej</item>
+        <item quantity="many">%1$d Badań w skrzynce nadawczej</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d licencji użytkownika</item>
+        <item quantity="one">%1$d licencja użytkownika</item>
+        <item quantity="few">%1$d licencje użytkownika</item>
+        <item quantity="many">%1$d licencji użytkownika</item>
+    </plurals>
+</resources>

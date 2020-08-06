@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.base.epoxy.view.FieldView android:background="@drawable/bg_item_top_bottom_border_dark" android:padding="@dimen/grid16" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_chevron_right_black_24dp" android:tint="@color/bni_grey50" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <TextView android:textColor="@color/colorOnPrimary" android:id="@id/bodyText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/grid16" app:layout_constraintEnd_toStartOf="@id/icon" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" app:layout_goneMarginEnd="0.0dip" style="@style/BniText.Body" />
+    <TextView android:textColor="@color/bni_grey50" android:id="@id/captionText" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="@id/bodyText" app:layout_constraintStart_toStartOf="@id/bodyText" app:layout_constraintTop_toBottomOf="@id/bodyText" style="@style/BniText.Small" />
+</com.butterflynetinc.helios.base.epoxy.view.FieldView>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.subscription.infopage.SubscriptionInfoPageView android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.butterflynetinc.helios.design.view.TitleBar android:id="@id/titleBar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:title="@string/subscription" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.core.widget.NestedScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout android:orientation="vertical" android:paddingBottom="@dimen/grid40" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:background="@color/bni_black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/horizontal_gutter" android:paddingVertical="@dimen/grid8">
+                <LinearLayout android:orientation="horizontal" android:id="@id/featureProLimitedBanner" android:background="@drawable/bg_grey_4dp_rounded" android:padding="@dimen/grid16" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid16" android:backgroundTint="@color/bni_grey85">
+                    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_info_outline_black_24dp" android:tint="@color/bni_white" android:paddingEnd="@dimen/grid16" />
+                    <TextView android:textColor="@color/bni_white" android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/feature_only_available_with_pro" style="@style/BniText.Small" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="center_horizontal" android:id="@id/headingImage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid48" />
+                    <TextView android:textColor="@color/bni_white" android:gravity="center" android:id="@id/headingTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid16" style="@style/BniText.Large.Bold" />
+                    <TextView android:textColor="@color/bni_white" android:gravity="center" android:id="@id/headingDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid16" style="@style/BniText.Body" />
+                </LinearLayout>
+                <TextView android:textColor="@color/bni_grey50" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid40" android:text="@string/description" style="@style/BniText.Small" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/horizontal_gutter">
+                <TextView android:textColor="@color/bni_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid24" android:text="@string/basic" android:layout_marginHorizontal="@dimen/grid16" style="@style/BniText.Body.Bold" />
+                <TextView android:textColor="@color/bni_grey50" android:id="@id/userLicensesText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid1" android:layout_marginBottom="@dimen/grid8" android:layout_marginHorizontal="@dimen/grid16" style="@style/BniText.Small" />
+                <TextView android:textColor="@color/bni_white" android:id="@id/expiredAtDateText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/grid16" android:layout_marginVertical="@dimen/grid8" style="@style/BniText.Small" />
+                <Button android:layout_gravity="center" android:id="@id/activateSubButton" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid8" android:backgroundTint="@color/bni_purple" style="@style/BniPrimaryTextButton" />
+                <View android:id="@id/divider" android:background="@color/bni_black" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="@dimen/grid24" app:layout_constraintTop_toBottomOf="@id/titleBar" />
+                <TextView android:textColor="@color/bni_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid24" android:text="@string/features" android:layout_marginHorizontal="@dimen/grid16" style="@style/BniText.Small" />
+                <LinearLayout android:orientation="vertical" android:id="@id/featuresContainer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/grid8">
+                    <LinearLayout android:gravity="center_vertical" android:background="@drawable/bg_rounded_corners_black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/software_updates" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/scan_with_power_doppler" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:background="@drawable/bg_rounded_corners_black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/document_and_bill_unlimited_storage" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/capture_with_annotations_and_measurements" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:background="@drawable/bg_rounded_corners_black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/save_images_review_securely" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/send_studies_to_pacs" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:background="@drawable/bg_rounded_corners_black" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid8">
+                        <TextView android:textColor="@color/bni_grey25" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/priority_customer_support" android:layout_weight="1.0" style="@style/BniText.Small" />
+                        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_checklist_checked" android:tint="@color/bni_grey25" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</com.butterflynetinc.helios.subscription.infopage.SubscriptionInfoPageView>

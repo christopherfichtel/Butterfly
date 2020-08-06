@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.simplevideo.SimpleVideoView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.exoplayer2.ui.PlayerView android:id="@id/playerView" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:controller_layout_id="@layout/view_custom_video_player_control" app:fastforward_increment="2000" app:rewind_increment="2000" />
+    <View android:id="@id/topGradient" android:background="@drawable/bg_video_top_gradient" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/grid48" />
+    <ImageButton android:layout_gravity="start|center|top" android:id="@id/closeButton" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="@dimen/grid24" android:layout_height="@dimen/grid24" android:layout_marginTop="@dimen/grid12" android:foreground="@drawable/ripple_oval_light" android:src="@drawable/ic_video_close" android:layout_marginStart="@dimen/grid16" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" style="@style/ExamToolbarImageButtonNormal" />
+</com.butterflynetinc.helios.simplevideo.SimpleVideoView>

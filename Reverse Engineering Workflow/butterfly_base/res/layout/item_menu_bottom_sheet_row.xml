@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.design.view.MenuBottomSheetRowView android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/grid48" android:foreground="?selectableItemBackground" android:paddingHorizontal="@dimen/grid16"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/icon" android:layout_width="@dimen/grid24" android:layout_height="@dimen/grid24" />
+    <TextView android:layout_gravity="center_vertical" android:id="@id/label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/grid32" style="@style/BniText.Body" />
+</com.butterflynetinc.helios.design.view.MenuBottomSheetRowView>

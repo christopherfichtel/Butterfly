@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">%1$d beelden verwijderen</item>
+        <item quantity="one">%1$d beeld verwijderen</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ U kunt nog %1$d keer een herinnering ontvangen.
+"</item>
+        <item quantity="one">"
+ U kunt nog %1$d keer een herinnering ontvangen.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ U hebt nog %1$d dagen voordat u geen nieuwe onderzoeken meer kunt opslaan in de beveiligde opslag van Butterfly. Werk uw factuurgegevens bij.
+"</item>
+        <item quantity="one">"
+ U hebt nog %1$d dag voordat u geen nieuwe onderzoeken meer kunt opslaan in de beveiligde opslag van Butterfly. Werk uw factuurgegevens bij.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">U hebt %1$d opnamen in uw onderzoeksrol. Als u uitlogt, worden deze gegevens gewist.</item>
+        <item quantity="one">U hebt %1$d opname in uw onderzoeksrol. Als u uitlogt, worden deze gegevens gewist.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">U hebt %1$d uploads in de wachtrij. Als u uitlogt, worden deze gegevens gewist.</item>
+        <item quantity="one">U hebt %1$d upload in de wachtrij. Als u uitlogt, worden deze gegevens gewist.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Schakel dit in wanneer u langer dan %1$d dagen offline gaat</item>
+        <item quantity="one">Schakel dit in wanneer u langer dan %1$d dag offline gaat</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">U hebt %1$d opnamen in uw onderzoeksrol. Als u van organisatie wisselt, worden deze gegevens gewist.</item>
+        <item quantity="one">U hebt %1$d opname in uw onderzoeksrol. Als u van organisatie wisselt, worden deze gegevens gewist.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">U hebt %1$d uploads in de wachtrij. Als u van organisatie wisselt, worden deze gegevens gewist.</item>
+        <item quantity="one">U hebt %1$d upload in de wachtrij. Als u van organisatie wisselt, worden deze gegevens gewist.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ U hebt nog %1$d dagen voordat u geen nieuwe onderzoeken meer kunt opslaan in de beveiligde opslag van Butterfly. Neem contact op met uw beheerder om uw abonnement opnieuw te activeren.
+"</item>
+        <item quantity="one">"
+ U hebt nog %1$d dag voordat u geen nieuwe onderzoeken meer kunt opslaan in de beveiligde opslag van Butterfly. Neem contact op met uw beheerder om uw abonnement opnieuw te activeren.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Upload %1$d beelden</item>
+        <item quantity="one">Upload %1$d beeld</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Uploads voltooid</item>
+        <item quantity="one">Upload voltooid</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d opmerkingen</item>
+        <item quantity="one">%1$d opmerking</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d seconden resterend...</item>
+        <item quantity="one">%1$d seconde resterend...</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d onderzoeken in het Postvak UIT</item>
+        <item quantity="one">%1$d onderzoek in het Postvak UIT</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d gebruikerslicenties</item>
+        <item quantity="one">%1$d gebruikerslicentie</item>
+    </plurals>
+</resources>

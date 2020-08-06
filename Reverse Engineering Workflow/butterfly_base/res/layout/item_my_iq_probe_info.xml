@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.settings.myiq.MyIqProbeInfoView android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid12"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textColor="@color/bni_white" android:id="@id/probeName" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/BniText.Body" />
+    <TextView android:textColor="@color/bni_grey50" android:id="@id/probeChargeInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="@id/probeName" app:layout_constraintTop_toBottomOf="@id/probeName" style="@style/BniText.Body" />
+    <Button android:textSize="@dimen/type_body" android:textColor="@color/bni_white" android:id="@id/updateButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="?selectableItemBackground" android:text="@string/update" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/BniSmallTextButton" />
+</com.butterflynetinc.helios.settings.myiq.MyIqProbeInfoView>

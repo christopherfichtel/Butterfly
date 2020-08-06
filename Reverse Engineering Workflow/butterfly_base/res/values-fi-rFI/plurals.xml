@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Hylkää %1$d kuvaa</item>
+        <item quantity="one">Hylkää %1$d kuva</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">"
+ Voit saada vielä %1$d muistutusta.
+"</item>
+        <item quantity="one">"
+ Voit saada vielä %1$d muistutuksen.
+"</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">"
+ %1$d päivän jälkeen et voi enää tallentaa uusia tutkimuksia Butterflyn suojattuun tallennustilaan. Päivitä laskutustietosi.
+"</item>
+        <item quantity="one">"
+ %1$d päivän jälkeen et voi enää tallentaa uusia tutkimuksia Butterflyn suojattuun tallennustilaan. Päivitä laskutustietosi.
+"</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">Tutkimuskelassasi on %1$d kaapattua kohdetta. Uloskirjautuminen hylkää nämä tiedot.</item>
+        <item quantity="one">Tutkimuskelassasi on %1$d kaapattu kohde. Uloskirjautuminen hylkää nämä tiedot.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">Sinulla on %1$d latausta jonossa. Uloskirjautuminen hylkää nämä tiedot.</item>
+        <item quantity="one">Sinulla on %1$d lataus jonossa. Uloskirjautuminen hylkää nämä tiedot.</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Ota käyttöön, kun olet offline-tilassa yli %1$d päivää</item>
+        <item quantity="one">Ota käyttöön, kun olet offline-tilassa yli %1$d päivän</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">Tutkimuskelassasi on %1$d kaapattua kohdetta. Organisaation vaihtaminen hylkää nämä tiedot.</item>
+        <item quantity="one">Tutkimuskelassasi on %1$d kaapattu kohde. Organisaation vaihtaminen hylkää tämän tiedon.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">Sinulla on %1$d latausta jonossa. Organisaation vaihtaminen hylkää nämä tiedot.</item>
+        <item quantity="one">Sinulla on %1$d lataus jonossa. Organisaation vaihtaminen hylkää tämän tiedon.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">"
+ %1$d päivän jälkeen et voi enää tallentaa uusia tutkimuksia Butterflyn suojattuun tallennustilaan. Ota yhteyttä pääkäyttäjään jatkaaksesi tilaustasi.
+"</item>
+        <item quantity="one">"
+ %1$d päivän jälkeen et voi enää tallentaa uusia tutkimuksia Butterflyn suojattuun tallennustilaan. Ota yhteyttä pääkäyttäjään jatkaaksesi tilaustasi.
+"</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Lataa %1$d kuvaa</item>
+        <item quantity="one">Lataa %1$d kuva</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Lataukset valmiita</item>
+        <item quantity="one">Lataus valmis</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%1$d kommenttia</item>
+        <item quantity="one">%1$d kommentti</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%1$d sekuntia jäljellä...</item>
+        <item quantity="one">%1$d sekunti jäljellä...</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%1$d tutkimusta lähtevät-kansiossa</item>
+        <item quantity="one">%1$d tutkimus lähtevät-kansiossa</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%1$d käyttölisenssiä</item>
+        <item quantity="one">%1$d käyttölisenssi</item>
+    </plurals>
+</resources>

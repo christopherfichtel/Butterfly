@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_gutter">112.0dip</dimen>
+    <dimen name="horizontal_large_gutter">224.0dip</dimen>
+    <dimen name="picker_selection_mask_margin">238.0dip</dimen>
+</resources>

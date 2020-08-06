@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textColor="@color/bni_grey25" android:id="@id/upperBoundText" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/BniText.Small.Bold" />
+    <TextView android:textColor="@color/bni_grey25" android:id="@id/cmPerSecondText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/centimeter_per_second" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/BniText.Small.Bold" />
+    <TextView android:textColor="@color/bni_grey25" android:id="@id/lowerBoundText" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" style="@style/BniText.Small.Bold" />
+</merge>

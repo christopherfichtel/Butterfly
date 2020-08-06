@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.exam.views.ExamToolbar android:id="@id/examToolbar" android:background="@color/bni_grey90" android:layout_width="0.0dip" android:layout_height="@dimen/exam_toolbar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

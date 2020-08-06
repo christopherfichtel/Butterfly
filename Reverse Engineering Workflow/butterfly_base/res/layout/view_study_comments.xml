@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.study.comments.StudyCommentsView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.butterflynetinc.helios.design.view.TitleBar android:id="@id/titleBar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:layout_constraintTop_toTopOf="parent" app:title="@string/comments" app:upIcon="close" />
+    <com.butterflynetinc.helios.study.comments.StudyCommentsPagingView android:id="@id/studyCommentsPagingView" android:background="@color/bni_black" android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toTopOf="@id/divider" app:layout_constraintTop_toBottomOf="@id/titleBar">
+        <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/recycler" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.butterflynetinc.helios.study.comments.StudyCommentsPagingView>
+    <View android:id="@id/divider" android:background="@color/bni_grey80" android:layout_width="fill_parent" android:layout_height="1.0dip" app:layout_constraintBottom_toTopOf="@id/suggestionRecycler" />
+    <com.airbnb.epoxy.EpoxyRecyclerView android:id="@id/suggestionRecycler" android:background="@color/bni_grey90" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/comment_mention_suggestions_height" app:layout_constraintBottom_toTopOf="@id/inputContainer" />
+    <include layout="@layout/merge_comment_input" />
+</com.butterflynetinc.helios.study.comments.StudyCommentsView>

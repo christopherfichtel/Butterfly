@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="discard_x_images">
+        <item quantity="other">Discard %d Images</item>
+        <item quantity="one">Discard %d Image</item>
+    </plurals>
+    <plurals name="health_check_remind_x_times">
+        <item quantity="other">You can be reminded %d more times.</item>
+        <item quantity="one">You can be reminded %d more time.</item>
+    </plurals>
+    <plurals name="individual_subscription_about_to_expire_description">
+        <item quantity="other">You have %d days left until you can no longer save new studies to Butterfly secure storage. Please update your billing information.</item>
+        <item quantity="one">You have %d day left until you can no longer save new studies to Butterfly secure storage. Please update your billing information.</item>
+    </plurals>
+    <plurals name="logout_warning_captures_message">
+        <item quantity="other">You have %d captures in your study reel. Logging out will discard this data.</item>
+        <item quantity="one">You have %d capture in your study reel. Logging out will discard this data.</item>
+    </plurals>
+    <plurals name="logout_warning_uploads_message">
+        <item quantity="other">You have %d uploads queued. Logging out will discard this data.</item>
+        <item quantity="one">You have %d upload queued. Logging out will discard this data.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="setting_extended_offline_mode_desc">
+        <item quantity="other">Enable when you will be offline for more than %d days</item>
+        <item quantity="one">Enable when you will be offline for more than %d day</item>
+    </plurals>
+    <plurals name="switch_org_warning_captures_message">
+        <item quantity="other">You have %d captures in your study reel. Switching organizations will discard this data.</item>
+        <item quantity="one">You have %d capture in your study reel. Switching organizations will discard this data.</item>
+    </plurals>
+    <plurals name="switch_org_warning_uploads_message">
+        <item quantity="other">You have %d uploads queued. Switching organizations will discard this data.</item>
+        <item quantity="one">You have %d upload queued. Switching organizations will discard this data.</item>
+    </plurals>
+    <plurals name="team_subscription_about_to_expire_description">
+        <item quantity="other">You have %d days left until you can no longer save new studies to Butterfly secure storage. Please contact your admin to reactivate your subscription.</item>
+        <item quantity="one">You have %d day left until you can no longer save new studies to Butterfly secure storage. Please contact your admin to reactivate your subscription.</item>
+    </plurals>
+    <plurals name="upload_x_images">
+        <item quantity="other">Upload %d Images</item>
+        <item quantity="one">Upload %d Image</item>
+    </plurals>
+    <plurals name="uploads_complete">
+        <item quantity="other">Uploads Complete</item>
+        <item quantity="one">Upload Complete</item>
+    </plurals>
+    <plurals name="x_comments">
+        <item quantity="other">%d Comments</item>
+        <item quantity="one">%d Comment</item>
+    </plurals>
+    <plurals name="x_second_remaining">
+        <item quantity="other">%d seconds remaining…</item>
+        <item quantity="one">%d second remaining…</item>
+    </plurals>
+    <plurals name="x_study_outbox">
+        <item quantity="other">%d Studies in the Outbox</item>
+        <item quantity="one">%d Study in the Outbox</item>
+    </plurals>
+    <plurals name="x_user_licenses">
+        <item quantity="other">%d User Licenses</item>
+        <item quantity="one">%d User License</item>
+    </plurals>
+</resources>

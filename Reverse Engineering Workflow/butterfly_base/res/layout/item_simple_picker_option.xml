@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.butterflynetinc.helios.base.epoxy.view.SimplePickerOptionView android:gravity="center_vertical" android:background="@color/bni_grey90" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/ripple_light" android:paddingHorizontal="@dimen/grid16" android:paddingVertical="@dimen/grid12"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/colorOnPrimary" android:id="@id/labelText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" style="@style/BniText.Body" />
+    <ImageView android:id="@id/checkIcon" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/ic_check_black_24dp" android:tint="@color/colorOnPrimary" android:layout_marginStart="@dimen/grid8" />
+</com.butterflynetinc.helios.base.epoxy.view.SimplePickerOptionView>

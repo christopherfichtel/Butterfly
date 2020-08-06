@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.butterflynetinc.helios.exam.views.toolsoverlay.RulerTool android:id="@id/rulerTool" android:layout_width="@dimen/grid32" android:layout_height="fill_parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.butterflynetinc.helios.exam.views.toolsoverlay.ProbeIndicatorTool android:id="@id/probeIndicator" android:layout_width="@dimen/grid32" android:layout_height="@dimen/grid32" app:layout_constraintLeft_toLeftOf="parent" app:layout_constraintRight_toRightOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <com.butterflynetinc.helios.exam.views.toolsoverlay.MeasurementsView android:id="@id/measurementsView" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.butterflynetinc.helios.exam.views.toolsoverlay.TextToolsContainer android:id="@id/textToolsContainer" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</merge>
